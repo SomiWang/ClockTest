@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LowerWhaleMask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: default1
+    m_Weight: 1
+  - m_Path: Bone01
+    m_Weight: 0
+  - m_Path: Bone01/Bone02
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04/Bone05
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+    m_Weight: 1
+  - m_Path: Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+    m_Weight: 1
+  - m_Path: Bone01/Bone10
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone11
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone11/Bone12
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone11/Bone12/Bone13
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone14
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone14/Bone15
+    m_Weight: 1
+  - m_Path: Bone01/Bone10/Bone14/Bone15/Bone16
+    m_Weight: 1
+  - m_Path: Bone17
+    m_Weight: 1
+  - m_Path: Bone17/Bone18
+    m_Weight: 1
+  - m_Path: Bone17/Bone18/Bone19
+    m_Weight: 1
+  - m_Path: Bone20
+    m_Weight: 1
+  - m_Path: Bone20/Bone21
+    m_Weight: 1
+  - m_Path: Bone20/Bone21/Bone22
+    m_Weight: 1

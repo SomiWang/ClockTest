@@ -1,0 +1,47 @@
+v1.5.0.0
+=============
+- Update: Dropped support for older versions of Unity. New minimum version is 2017.4 LTS (up from Unity 4.6.1).
+- Update: Updated obsolete code for versions of Unity from 2017.4 to 2019.3.
+- Bug Fix: Fixed issue with same shader files that used mutliple different line endings.
+- Added: A change log file (the one you're reading right now!) is now included in the Documents folder.
+
+v1.4.4.0
+=============
+- Fixed issue that prevented custom lens kits from being selected.
+
+v1.4.3.2
+=============
+- Fixed the links in the About window.
+
+v1.4.3.1
+=============
+- Fixed bug that affected Stereo output in unity 4.x
+
+v1.4.3.0
+=============
+- Updated package for Unity5.
+
+v1.4.2.2
+=============
+- Stereo Left/Right cams can now have their clear flags altered.
+
+v1.4.2.1
+=============
+- Fixed issue in sample scene not showing DOF.
+
+v1.4.2.0
+=============
+- Re-wrote DOF scripts as CSharp files.
+
+v1.4.1.1
+=============
+- Fixed error some users were experiencing with DOF scripts being merged.
+
+v1.4.1.0
+=============
+- Added Top-Bottom support for Stereo3D.
+
+v1.3.0.0
+=============
+- Added Metric/Imperial.
+- Added support for reversed side-by-side.
